@@ -7,7 +7,7 @@
 - 作业1：[Web服务器](https://github.com/2293736867/ComputerNetworkATopDownApproachProgrammingAssignments/tree/main/homework1)
 - 作业2：[UDP Ping程序](https://github.com/2293736867/ComputerNetworkATopDownApproachProgrammingAssignments/tree/main/homework2)
 - 作业3：[邮件客户端](https://github.com/2293736867/ComputerNetworkATopDownApproachProgrammingAssignments/tree/main/homework3)
-- 作业4：多线程Web代理服务器（未完成）
+- 作业4：[多线程Web代理服务器](https://github.com/2293736867/ComputerNetworkATopDownApproachProgrammingAssignments/tree/main/homework4)
 - 作业5：ICMP ping（未完成）
 - 作业6：多媒体协议（未完成）
 
